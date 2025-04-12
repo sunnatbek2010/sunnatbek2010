@@ -1,16 +1,16 @@
-<h1 align="center">Привет! 👋 Меня зовут Sunnatbek</h1>
+<h1 align="center">Hello! 👋 my name is Sunnatbek</h1>
 
 ---
 
-### 💡 Немного обо мне
+### 💡 About me
 
-- 🌱 Сейчас учусь: JavaScript + Phyton
-- 💼 Работаю фрилансером
-- ⚡ Интересуюсь: анимацией в интерфейсах и AI
-
+- 🌱 Currently learning: JavaScript + Python
+- 💼 I work as a freelancer
+- ⚡ Interested in: animation in interfaces and AI
 ---
 
-### 🚀 Мои навыки
+### 🚀 My skills
+
 
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc250N21lMmtrbHdncmVsenkxc2p2YnlzbGg1MnJ3NnVubDM4dDMxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKKImRT3NiD8IM0/giphy.gif" width="300">
