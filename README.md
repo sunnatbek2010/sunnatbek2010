@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Front-end+разработчик;Люблю+чистый+код;Пишу+на+HTML%2C+CSS%2C+JS+и+другое" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=твое_имя_на_github&label=Просмотры+профиля&color=0e75b6&style=flat" alt="Просмотры профиля" />
-</p>
+
 
 ## 🧠 Обо мне
 
