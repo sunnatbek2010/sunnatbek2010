@@ -25,17 +25,26 @@
 
 ## 🔗 Мои соцсети:
 
-
-Telegram: https://t.me/sv_3377
-по поводу заказов: https://t.me/developers_S_F
-Instagram: https://www.instagram.com/01.s_v_a/
+<p align="left">
+   Telegram: https://t.me/sv_3377
+</p>
+<p align="left">
+    по поводу заказов: https://t.me/developers_S_F
+</p>
+<p align="left">
+    Instagram: https://www.instagram.com/01.s_v_a/
+</p>
 
 
 
 ## 🔗 Мои веб сайты:
 
 
-
+<p align="left">
 🔗  https://sunnatbek2010.github.io/shopping/
+</p>
+
+<p align="left">
 🔗  https://sunnatbek2010.github.io/Make-homs/
+</p>
 
