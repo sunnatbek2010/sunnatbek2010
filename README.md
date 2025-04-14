@@ -23,6 +23,8 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![bootstrap](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/sites/152896/images/OzA7RhDQHOlsIrnB5LqQ_file.jpg)
+![Github](https://nextgen.group/hubfs/github_PNG65.png)
 
 ---
 
