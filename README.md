@@ -26,5 +26,16 @@
 ## 🔗 Мои соцсети:
 
 
-Telegra  <img src"https://github.com/user-attachments/assets/040c6418-0e31-494f-b421-d488833eeece" width="300" alt="" />
+Telegram: https://t.me/sv_3377
+по поводу заказов: https://t.me/developers_S_F
+Instagram: https://www.instagram.com/01.s_v_a/
+
+
+
+## 🔗 Мои веб сайты:
+
+
+
+🔗  https://sunnatbek2010.github.io/shopping/
+🔗  https://sunnatbek2010.github.io/Make-homs/
 
