@@ -22,13 +22,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
-## 📊 GitHub статистика:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твое_имя_на_github&show_icons=true&theme=radical" />
-</p>
 
 ## 🔗 Мои соцсети:
 
-Telegram  ![image](https://github.com/user-attachments/assets/040c6418-0e31-494f-b421-d488833eeece)
+
+Telegra  <img src"https://github.com/user-attachments/assets/040c6418-0e31-494f-b421-d488833eeece" width="300" alt="" />
 
