@@ -2,8 +2,8 @@
 
 <h1 align="center">Привет! 👋 Я Sunnatbek</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Front-end+разработчик;Люблю+чистый+код;Пишу+на+HTML%2C+CSS%2C+JS+и+другое" alt="Typing SVG" />
+<p align="right">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGd6YWZ4NjF4YmJ0aXNjNnVyd2ZmajR5NnptN2U5dmhpNnloZXBvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKKImRT3NiD8IM0/giphy.gif" alt="" />
 </p>
 
 
