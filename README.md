@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGd6YWZ4NjF4YmJ0aXNjNnVyd2ZmajR5NnptN2U5dmhpNnloZXBvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKKImRT3NiD8IM0/giphy.gif" alt="" />
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47ay2siovu192bc7n8v3npnhs142y70nibb06r8n1e&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="" />
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" alt="" />
 </p>
 
 
