@@ -26,7 +26,7 @@
 
 
 
-<p align="right">
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJma21nb3Z4ZnlmaTl3emE5NXNveW1ldHg0ZTk5bmpjMXMxcXZiZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing SVG" />
 </p>
 
