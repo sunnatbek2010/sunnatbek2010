@@ -37,12 +37,7 @@
 <p align="left">
    Telegram: https://t.me/sv_3377
 </p>
-<p align="left">
-    по поводу заказов: https://t.me/developers_S_F
-</p>
-<p align="left">
-    Instagram: https://www.instagram.com/01.s_v_a/
-</p>
+
 
 
 
