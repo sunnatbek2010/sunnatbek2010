@@ -45,14 +45,3 @@
 
 
 
-## 🔗 Мои веб сайты:
-
-
-<p align="left">
-🔗  https://sunnatbek2010.github.io/shopping/
-</p>
-
-<p align="left">
-🔗  https://sunnatbek2010.github.io/Make-homs/
-</p>
-
