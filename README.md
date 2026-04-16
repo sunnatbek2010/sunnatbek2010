@@ -9,10 +9,6 @@
 
 
 
-## 🧠 Обо мне
-
-
-- 💬 Спроси меня про: HTML, CSS, JS, React, Figma, Blender
 
 ## 🚀 Мои скиллы:
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -25,6 +21,7 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" style="border-radius: 12px;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 12px;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" style="border-radius: 12px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="border-radius: 12px;">
 </div>
 
 
