@@ -36,7 +36,7 @@
 ## 🔗 Мои соцсети:
 
 <p align="left">
-   Telegram: https://t.me/sv_3377
+   Telegram: https://t.me/valijonv_s
 </p>
 
 
